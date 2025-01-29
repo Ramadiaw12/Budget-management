@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+};
+h1{
+    padding: 20px;
+}
+img{
+    padding: 0px;
+    width: 650px;
+    height: 30vh;
+    justify-content: center;
+    margin-left: 25%;
+}
+p{
+    color: #0C5E69;
+    font-family: sans-serif;
+    margin-left: 45%;
+    margin-top: 0px;
+
+}
+div{
+    gap: 0px
+}
